@@ -1,0 +1,16 @@
+{
+  "useTestAds": true,
+  "bannerId": "demo-banner-yandex",
+  "interstitialId": "demo-interstitial-yandex",
+  "rewardedId": "demo-rewarded-yandex",
+  "nativeContentId": "demo-native-app-yandex",
+  "nativeVideoId": "demo-native-app-yandex",
+  "appOpenId": "demo-appopenad-yandex",
+  "interstitialIntervalMs": 45000,
+  "interstitialMaxSession": 10,
+  "interstitialColdStartMs": 30000,
+  "weaponDetailTriggerCount": 2,
+  "appOpenMinBackgroundMs": 30000,
+  "nativeIntervalWeapons": 4,
+  "nativeIntervalGuides": 2
+}
