@@ -1,5 +1,5 @@
 {
-  "useTestAds": true,
+  "useTestAds": false,
   "bannerId": "R-M-18847027-1",
   "interstitialId": "R-M-18847027-3",
   "rewardedId": "R-M-18847027-4",
