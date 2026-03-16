@@ -1,0 +1,25 @@
+
+  {
+    "adsEnabled": true,
+    "bannerEnabled": true,
+    "interstitialEnabled": true,
+    "rewardedEnabled": true,
+    "nativeEnabled": true,
+    "appOpenEnabled": true,
+
+    "useTestAds": true,
+    "bannerId": "R-M-18847027-1",
+    "interstitialId": "R-M-18847027-3",
+    "rewardedId": "R-M-18847027-4",
+    "nativeContentId": "R-M-18847027-2",
+    "nativeVideoId": "R-M-18847027-2",
+    "appOpenId": "R-M-18847027-5",
+
+    "interstitialIntervalMs": 45000,
+    "interstitialMaxSession": 10,
+    "interstitialColdStartMs": 30000,
+    "weaponDetailTriggerCount": 2,
+    "appOpenMinBackgroundMs": 30000,
+    "nativeIntervalWeapons": 4,
+    "nativeIntervalGuides": 3
+  }
