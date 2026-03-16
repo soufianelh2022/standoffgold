@@ -8,12 +8,12 @@
     "appOpenEnabled": true,
 
     "useTestAds": true,
-    "bannerId": "R-M-18847027-1",
-    "interstitialId": "R-M-18847027-3",
-    "rewardedId": "R-M-18847027-4",
-    "nativeContentId": "R-M-18847027-2",
-    "nativeVideoId": "R-M-18847027-2",
-    "appOpenId": "R-M-18847027-5",
+    "bannerId": "demo-banner-yandex",
+    "interstitialId": "demo-interstitial-yandex",
+    "rewardedId": "demo-rewarded-yandex",
+    "nativeContentId": "demo-native-app-yandex",
+    "nativeVideoId": "demo-native-app-yandex",
+    "appOpenId": "demo-appopenad-yandex",
 
     "interstitialIntervalMs": 45000,
     "interstitialMaxSession": 10,
