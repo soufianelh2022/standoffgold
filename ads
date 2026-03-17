@@ -11,8 +11,7 @@
     "bannerId": "demo-banner-yandex",
     "interstitialId": "demo-interstitial-yandex",
     "rewardedId": "demo-rewarded-yandex",
-    "nativeContentId": "demo-native-app-yandex",
-    "nativeVideoId": "demo-native-app-yandex",
+     "nativeId": "demo-native-app-yandex",
     "appOpenId": "demo-appopenad-yandex",
 
     "interstitialIntervalMs": 45000,
