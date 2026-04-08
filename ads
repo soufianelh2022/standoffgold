@@ -7,12 +7,12 @@
     "nativeEnabled": true,
     "appOpenEnabled": true,
 
-    "useTestAds": true,
-    "bannerId": "demo-banner-yandex",
-    "interstitialId": "demo-interstitial-yandex",
-    "rewardedId": "demo-rewarded-yandex",
-     "nativeId": "demo-native-app-yandex",
-    "appOpenId": "demo-appopenad-yandex",
+    "useTestAds": false,
+    "bannerId": "R-M-19077132-1",
+    "interstitialId": "R-M-19077132-3",
+    "rewardedId": "R-M-19077132-4",
+     "nativeId": "R-M-19077132-2",
+    "appOpenId": "R-M-19077132-5",
 
     "interstitialIntervalMs": 45000,
     "interstitialMaxSession": 10,
